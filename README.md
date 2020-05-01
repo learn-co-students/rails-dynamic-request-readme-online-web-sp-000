@@ -1,5 +1,7 @@
 # Rails Dynamic Request
 
+
+
 ## Review
 
 You already know how to create a static request, which is where you create a
