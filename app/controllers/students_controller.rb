@@ -1,7 +1,8 @@
-def index
-  @students = Student.all
-end
+  def index
+    @students = Student.all
+  end
 
-def show
+  def show
     @student = Student.find(params[:id])
+  end
 end
